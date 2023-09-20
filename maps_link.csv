@@ -22,3 +22,8 @@ Sub Districts,Andhra ,https://raw.githubusercontent.com/vaisrinit/maps/main/Andh
 State ,Arunachal,https://raw.githubusercontent.com/vaisrinit/maps/main/Arunachal/ARUNACHAL%20PRADESH_STATE.json 
 Sub Districts,Arunachal,https://raw.githubusercontent.com/vaisrinit/maps/main/Arunachal/ARUNACHAL%20PRADESH_SUBDISTRICTS.json 
 Parliament ,Arunachal,https://raw.githubusercontent.com/vaisrinit/maps/main/Arunachal/ARUNACHAL%20PRADESH_parliament.json 
+Assembly ,Bihar,https://raw.githubusercontent.com/vaisrinit/maps/main/Bihar/BIHAR_ASSEMBLY.json 
+Districts ,Bihar,https://raw.githubusercontent.com/vaisrinit/maps/main/Bihar/BIHAR_DISTRICTS.json
+State,Bihar,https://raw.githubusercontent.com/vaisrinit/maps/main/Bihar/BIHAR_STATE.json
+Sub Districts,Bihar,https://raw.githubusercontent.com/vaisrinit/maps/main/Bihar/BIHAR_SUBDISTRICTS.json
+Parliament,Bihar,https://raw.githubusercontent.com/vaisrinit/maps/main/Bihar/BIHAR_parliament.json
