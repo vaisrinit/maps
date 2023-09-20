@@ -1,0 +1,24 @@
+﻿Map Type,State Name,Link
+State,India,https://raw.githubusercontent.com/vaisrinit/maps/main/INDIA_STATES.json 
+Parliament,Andhra ,https://raw.githubusercontent.com/vaisrinit/maps/main/Andhra%20Pradesh/ANDHRA%20PRADESH_parliament.json 
+Assembly ,Arunachal,https://raw.githubusercontent.com/vaisrinit/maps/main/Arunachal/ARUNACHAL%20PRADESH_ASSEMBLY.json 
+Parliament,Indian ,https://raw.githubusercontent.com/datta07/INDIAN-SHAPEFILES/master/INDIA/INDIA_PARLIMENTARY_BOUNDARIES.json 
+Districts ,Arunachal ,https://raw.githubusercontent.com/vaisrinit/maps/main/Arunachal/ARUNACHAL%20PRADESH_DISTRICTS.json 
+Assembly ,Andhra ,https://raw.githubusercontent.com/vaisrinit/maps/main/Andhra%20Pradesh/ANDHRA%20PRADESH_ASSEMBLY.json 
+Parliament ,Andaman ,https://raw.githubusercontent.com/vaisrinit/maps/main/Andaman%20and%20Nicobar/ANDAMAN%20%26%20NICOBAR_parliament.json 
+State ,Andhra ,https://raw.githubusercontent.com/vaisrinit/maps/main/Andhra%20Pradesh/ANDHRA%20PRADESH_STATE.json 
+Districts ,Andhra ,https://raw.githubusercontent.com/vaisrinit/maps/main/Andhra%20Pradesh/ANDHRA%20PRADESH_DISTRICTS.json 
+New Districts ,Andhra ,https://raw.githubusercontent.com/vaisrinit/maps/main/Andhra%20Pradesh/ANDHRA%20PRADESH_NEW_DISTRICTS.json 
+Districts ,Andaman ,https://raw.githubusercontent.com/vaisrinit/maps/main/Andaman%20and%20Nicobar/ANDAMAN%20%26%20NICOBAR_DISTRICTS.json 
+Sub Districts,Andaman ,https://raw.githubusercontent.com/vaisrinit/maps/main/Andaman%20and%20Nicobar/ANDAMAN%20%26%20NICOBAR_SUBDISTRICTS.json 
+State ,Andaman ,https://raw.githubusercontent.com/vaisrinit/maps/main/Andaman%20and%20Nicobar/ANDAMAN%20%26%20NICOBAR_STATE.json 
+Villages ,Assam,https://raw.githubusercontent.com/vaisrinit/maps/main/Assam/ASSAM_VILLAGES.json 
+Assembly ,Assam,https://raw.githubusercontent.com/vaisrinit/maps/main/Assam/ASSAM_ASSEMBLY.json 
+Districts ,Assam,https://raw.githubusercontent.com/vaisrinit/maps/main/Assam/ASSAM_DISTRICTS.json 
+State ,Assam,https://raw.githubusercontent.com/vaisrinit/maps/main/Assam/ASSAM_STATE.json 
+Sub Districts,Assam,https://raw.githubusercontent.com/vaisrinit/maps/main/Assam/ASSAM_SUBDISTRICTS.json 
+Parliament,Assam,https://raw.githubusercontent.com/vaisrinit/maps/main/Assam/ASSAM_parliament.json 
+Sub Districts,Andhra ,https://raw.githubusercontent.com/vaisrinit/maps/main/Andhra%20Pradesh/ANDHRA%20PRADESH_SUBDISTRICTS.json 
+State ,Arunachal,https://raw.githubusercontent.com/vaisrinit/maps/main/Arunachal/ARUNACHAL%20PRADESH_STATE.json 
+Sub Districts,Arunachal,https://raw.githubusercontent.com/vaisrinit/maps/main/Arunachal/ARUNACHAL%20PRADESH_SUBDISTRICTS.json 
+Parliament ,Arunachal,https://raw.githubusercontent.com/vaisrinit/maps/main/Arunachal/ARUNACHAL%20PRADESH_parliament.json 
