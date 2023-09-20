@@ -5,7 +5,7 @@ Assembly ,Arunachal,https://raw.githubusercontent.com/vaisrinit/maps/main/Arunac
 Parliament,Indian ,https://raw.githubusercontent.com/datta07/INDIAN-SHAPEFILES/master/INDIA/INDIA_PARLIMENTARY_BOUNDARIES.json 
 Districts ,Arunachal ,https://raw.githubusercontent.com/vaisrinit/maps/main/Arunachal/ARUNACHAL%20PRADESH_DISTRICTS.json 
 Assembly ,Andhra ,https://raw.githubusercontent.com/vaisrinit/maps/main/Andhra%20Pradesh/ANDHRA%20PRADESH_ASSEMBLY.json 
-Parliament ,Andaman ,https://raw.githubusercontent.com/vaisrinit/maps/main/Andaman%20and%20Nicobar/ANDAMAN%20%26%20NICOBAR_parliament.json 
+Parliament,Andaman ,https://raw.githubusercontent.com/vaisrinit/maps/main/Andaman%20and%20Nicobar/ANDAMAN%20%26%20NICOBAR_parliament.json 
 State ,Andhra ,https://raw.githubusercontent.com/vaisrinit/maps/main/Andhra%20Pradesh/ANDHRA%20PRADESH_STATE.json 
 Districts ,Andhra ,https://raw.githubusercontent.com/vaisrinit/maps/main/Andhra%20Pradesh/ANDHRA%20PRADESH_DISTRICTS.json 
 New Districts ,Andhra ,https://raw.githubusercontent.com/vaisrinit/maps/main/Andhra%20Pradesh/ANDHRA%20PRADESH_NEW_DISTRICTS.json 
@@ -21,7 +21,7 @@ Parliament,Assam,https://raw.githubusercontent.com/vaisrinit/maps/main/Assam/ASS
 Sub Districts,Andhra ,https://raw.githubusercontent.com/vaisrinit/maps/main/Andhra%20Pradesh/ANDHRA%20PRADESH_SUBDISTRICTS.json 
 State ,Arunachal,https://raw.githubusercontent.com/vaisrinit/maps/main/Arunachal/ARUNACHAL%20PRADESH_STATE.json 
 Sub Districts,Arunachal,https://raw.githubusercontent.com/vaisrinit/maps/main/Arunachal/ARUNACHAL%20PRADESH_SUBDISTRICTS.json 
-Parliament ,Arunachal,https://raw.githubusercontent.com/vaisrinit/maps/main/Arunachal/ARUNACHAL%20PRADESH_parliament.json 
+Parliament,Arunachal,https://raw.githubusercontent.com/vaisrinit/maps/main/Arunachal/ARUNACHAL%20PRADESH_parliament.json 
 Assembly ,Bihar,https://raw.githubusercontent.com/vaisrinit/maps/main/Bihar/BIHAR_ASSEMBLY.json 
 Districts ,Bihar,https://raw.githubusercontent.com/vaisrinit/maps/main/Bihar/BIHAR_DISTRICTS.json
 State,Bihar,https://raw.githubusercontent.com/vaisrinit/maps/main/Bihar/BIHAR_STATE.json
@@ -39,3 +39,28 @@ Parliament,Chattisgarh,https://raw.githubusercontent.com/vaisrinit/maps/main/Cha
 Parliament,India,https://raw.githubusercontent.com/vaisrinit/maps/main/INDIA_PARLIMENTARY_BOUNDARIES.json
 Sub Districts,India,https://raw.githubusercontent.com/vaisrinit/maps/main/INDIAN_SUB_DISTRICTS.json
 Districts ,India,https://raw.githubusercontent.com/vaisrinit/maps/main/INDIA_DISTRICTS.json
+Sub Districts,Dadra & Nagar Haveli,https://raw.githubusercontent.com/vaisrinit/maps/main/DADAR%20%26%20NAGAR%20HAVELI/DADAR%20%26%20NAGAR%20HAVELI_SUBDISTRICTS.json
+State,Dadra & Nagar Haveli,https://raw.githubusercontent.com/vaisrinit/maps/main/DADAR%20%26%20NAGAR%20HAVELI/DADRA%20%26%20NAGAR%20HAVELI_STATE.json
+Parliament,Dadra & Nagar Haveli,https://raw.githubusercontent.com/vaisrinit/maps/main/DADAR%20%26%20NAGAR%20HAVELI/DADRA%20%26%20NAGAR%20HAVELI_parliament.json
+Districts ,Dadra & Nagar Haveli,https://raw.githubusercontent.com/vaisrinit/maps/main/DADAR%20%26%20NAGAR%20HAVELI/DADRA%20%26%20NAGAR%20HAVE_DISTRICTS.json
+Districts ,Daman & Diu,https://raw.githubusercontent.com/vaisrinit/maps/main/DAMAN%20%26%20DIU/DAMAN%20%26%20DIU_DISTRICTS.json
+State,Daman & Diu,https://raw.githubusercontent.com/vaisrinit/maps/main/DAMAN%20%26%20DIU/DAMAN%20%26%20DIU_STATE.json
+Sub Districts,Daman & Diu,https://github.com/vaisrinit/maps/blob/main/DAMAN%20%26%20DIU/DAMAN%20%26%20DIU_SUBDISTRICTS.json
+Parliament,Daman & Diu,https://raw.githubusercontent.com/vaisrinit/maps/main/DAMAN%20%26%20DIU/DAMAN%20%26%20DIU_parliament.json
+Assembly ,Delhi,https://raw.githubusercontent.com/vaisrinit/maps/main/DELHI/DELHI_ASSEMBLY.json
+Districts ,Delhi,https://raw.githubusercontent.com/vaisrinit/maps/main/DELHI/DELHI_DISTRICTS.json
+State,Delhi,https://raw.githubusercontent.com/vaisrinit/maps/main/DELHI/DELHI_STATE.json
+Sub Districts,Delhi,https://raw.githubusercontent.com/vaisrinit/maps/main/DELHI/DELHI_SUBDISTRICTS.json
+Villages ,Delhi,https://raw.githubusercontent.com/vaisrinit/maps/main/DELHI/DELHI_VILLAGES.json
+Parliament,Delhi,https://raw.githubusercontent.com/vaisrinit/maps/main/DELHI/DELHI_parliament.json
+Assembly ,Goa,https://raw.githubusercontent.com/vaisrinit/maps/main/GOA/GOA_ASSEMBLY.json
+Districts ,Goa,https://raw.githubusercontent.com/vaisrinit/maps/main/GOA/GOA_DISTRICTS.json
+State,Goa,https://raw.githubusercontent.com/vaisrinit/maps/main/GOA/GOA_STATE.json
+Sub Districts,Goa,https://raw.githubusercontent.com/vaisrinit/maps/main/GOA/GOA_SUBDISTRICTS.json
+Villages,Goa,https://raw.githubusercontent.com/vaisrinit/maps/main/GOA/GOA_VILLAGES.json
+Parliament,Goa,https://raw.githubusercontent.com/vaisrinit/maps/main/GOA/GOA_parliament.json
+Assembly ,Gujarat,https://raw.githubusercontent.com/vaisrinit/maps/main/GUJARAT/GUJARAT_ASSEMBLY.json
+Districts ,Gujarat,https://raw.githubusercontent.com/vaisrinit/maps/main/GUJARAT/GUJARAT_DISTRICTS.json
+State,Gujarat,https://raw.githubusercontent.com/vaisrinit/maps/main/GUJARAT/GUJARAT_STATE.json
+Sub districts,Gujarat,https://raw.githubusercontent.com/vaisrinit/maps/main/GUJARAT/GUJARAT_SUBDISTRICTS.json
+Parliament,Gujarat,https://raw.githubusercontent.com/vaisrinit/maps/main/GUJARAT/GUJARAT_parliament.json
